@@ -1,7 +1,7 @@
 ng-method
 =========
 
-The missing Angular JS model functionality.
+The missing Angular JS method functionality.
 
 To conform to existing routing systems like Rails, the ability to define the method in the route is now available.
 
